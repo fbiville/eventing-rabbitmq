@@ -1,4 +1,4 @@
-# RabbitMQ - Source
+boilerplate# RabbitMQ - Source
 
 The Rabbitmq Event source enables Knative Eventing integration with Rabbitmq. When an message is produced to Rabbitmq, the
 Rabbitmq Event Source will consume the produced message and post that message the corresponding event sink.
